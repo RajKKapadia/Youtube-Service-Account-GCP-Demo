@@ -1,0 +1,1 @@
+web: gunicorn demoCode:app --log-file -
